@@ -1,0 +1,301 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+#background
+{
+	left: 0px;
+	top: 0px;
+	position: relative;
+	margin-left: auto;
+	margin-right: auto;
+	width: 1280px;
+	height: 1761px;
+	overflow: hidden;
+	z-index:0;
+}
+
+#Layer2
+{
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	width: 1280px;
+	height: 1761px;
+	z-index:1;
+}
+
+#Layer1
+{
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	width: 1277px;
+	height: 777px;
+	z-index:2;
+}
+
+#TECHNOLOGYTOTAKEYOUB
+{
+	left: 321px;
+	top: 227px;
+	position: absolute;
+	width: 669px;
+	height: 30px;
+	z-index:3;
+}
+
+#RoundedRectangle1
+{
+	left: 522px;
+	top: 353px;
+	position: absolute;
+	width: 236px;
+	height: 49px;
+	z-index:4;
+}
+
+#Readmore
+{
+	left: 572px;
+	top: 365px;
+	position: absolute;
+	width: 132px;
+	height: 22px;
+	z-index:5;
+}
+
+#Ellipse1
+{
+	left: 594px;
+	top: 521px;
+	position: absolute;
+	width: 11px;
+	height: 11px;
+	z-index:6;
+}
+
+#Ellipse1copy
+{
+	left: 615px;
+	top: 521px;
+	position: absolute;
+	width: 11px;
+	height: 11px;
+	z-index:7;
+}
+
+#Ellipse1copy2
+{
+	left: 636px;
+	top: 521px;
+	position: absolute;
+	width: 11px;
+	height: 11px;
+	z-index:8;
+}
+
+#Ellipse1copy3
+{
+	left: 656px;
+	top: 521px;
+	position: absolute;
+	width: 11px;
+	height: 11px;
+	z-index:9;
+}
+
+#Ellipse1copy4
+{
+	left: 674px;
+	top: 521px;
+	position: absolute;
+	width: 11px;
+	height: 11px;
+	z-index:10;
+}
+
+#Shape1
+{
+	top: 0px;
+	position: absolute;
+	width: 100%;
+	height: 106px;
+	z-index:9;
+}
+
+#Infiniteinc
+{
+	left: 186px;
+	top: 29px;
+	position: absolute;
+	width: 179px;
+	height: 29px;
+	z-index:12;
+}
+
+#HomeAboutUs
+{
+	left: 691px;
+	top: 25px;
+	position: absolute;
+	width: 503px;
+	height: 15px;
+	z-index:13;
+	color: white;
+}
+
+#Rectangle1
+{
+	/*left: -1px;*/
+	margin-left: 3%;
+	position: absolute;
+	width: 1282px;
+	height: 1162px;
+	z-index:14;
+}
+
+#Atthesametimethatwea
+{
+	left: 346px;
+	top: 646px;
+	position: absolute;
+	width: 588px;
+	height: 77px;
+	z-index:15;
+}
+
+#Infiniteincissimplya
+{
+	left: 255px;
+	top: 764px;
+	position: absolute;
+	width: 758px;
+	height: 58px;
+	z-index:16;
+}
+
+#Coding
+{
+	left: 324px;
+	top: 831px;
+	position: absolute;
+	width: 208px;
+	height: 188px;
+	z-index:17;
+}
+
+#Electronics
+{
+	left: 544px;
+	top: 855px;
+	position: absolute;
+	width: 219px;
+	height: 160px;
+	z-index:18;
+}
+
+#DataRecovery
+{
+	left: 818px;
+	top: 872px;
+	position: absolute;
+	width: 193px;
+	height: 144px;
+	z-index:19;
+}
+
+#Layer8
+{
+	left: 0px;
+	top: 1089px;
+	position: absolute;
+	width: 1280px;
+	height: 652px;
+	z-index:20;
+}
+
+#Ellipse2
+{
+	left: 425px;
+	top: 1246px;
+	position: absolute;
+	width: 433px;
+	height: 433px;
+	z-index:21;
+}
+
+
+#Name
+{
+	left: 517px;
+	top: 1340px;
+	position: absolute;
+	z-index:26;
+}
+
+#Whatcanwehelpyoufor
+{
+	left: 517px;
+	top: 1465px;
+	position: absolute;
+	z-index:27;
+}
+
+#Location
+{
+	left: 518px;
+	top: 1530px;
+	position: absolute;
+	z-index:28;
+}
+
+#Shape5
+{
+	left: 612px;
+	top: 1575px;
+	position: absolute;
+	width: 69px;
+	height: 69px;
+	z-index:29;
+}
+
+#Locationicon
+{
+	left: 725px;
+	top: 1515px;
+	position: absolute;
+	width: 52px;
+	height: 43px;
+	z-index:30;
+}
+
+#Contactnumber
+{
+	left: 517px;
+	top: 1405px;
+	position: absolute;
+	width: 96px;
+	height: 10px;
+	z-index:31;
+}
+
+#Rectangle3
+{
+	top: 1719px;
+	position: absolute;
+	width: 1355px;
+	height: 43px;
+	z-index:32;
+}
+
+#Copyright2016Infinit
+{
+	left: 526px;
+	top: 1735px;
+	position: absolute;
+	width: 191px;
+	height: 10px;
+	z-index:33;
+} 

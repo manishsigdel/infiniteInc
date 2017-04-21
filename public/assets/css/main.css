@@ -1,0 +1,61 @@
+
+		/*Home*/
+.flexslider{
+	text-align: center;
+	text-transform: uppercase;
+	color: #fff;
+	margin: 0;
+	padding: 0;
+	border: 0;
+	overflow-x: hidden;
+	background: transparent;
+	background-image: url('../images/header.png');
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+.slider-item{
+	background-size: inherit;
+	background-position: left bottom;
+	background-repeat: no-repeat;
+}
+.inner-intro{
+	display: table-cell;
+	vertical-align: middle;
+	position: relative;
+}
+.intro{
+	display: table;
+	text-align: center;
+	width: 100%;
+	height: 100vh;
+}
+.header-title{
+	font-size: 34px;
+	font-weight: 400;
+}
+.header-title span{
+	font-weight: 700;
+}
+.header-sub-title{
+	font-size: 14px;
+	color: #fff;
+	margin: 20px auto 25px;
+}
+.custom-btn{
+    color: #FFF;
+    background-color: transparent;
+    border-color: #FFF;
+    border-radius: 0px;
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight: 400;
+    transition: all .4s ease-in-out;
+}
+.custom-btn:hover{
+	background: #fff;
+	color: #583b54;
+}
+/*=================================================
+||				4. Find a Tour
+==================================================*/
